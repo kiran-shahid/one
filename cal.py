@@ -17,3 +17,6 @@ print(m)
 def sub (x,y):
     return x-y
 a=sub(8,14)
+def sub (x,y):
+    return x-y
+a=sub(8,14)
